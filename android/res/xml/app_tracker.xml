@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="ga_trackingId">UA-60475662-1</string>
+
+    <integer name="ga_sessionTimeout">120</integer>
+
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <screenName name="ffcm.pitnfc.AndroidLauncher">
+        AndroidLauncher
+    </screenName>
+</resource>
